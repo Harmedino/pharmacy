@@ -70,6 +70,10 @@ import quinoa_image from "./quinoa_image.png";
 import brown_rice_image from "./brown_rice_image.png";
 import barley_image from "./barley_image.png";
 import heroBg from "./heroBg.png";
+import benefit1 from "./benefit 1.png";
+import benefit2 from "./benefit 2.png";
+import benefit3 from "./benefit 3.png";
+import drugs from "./drugs.png";
 
 export const assets = {
   logo,
@@ -100,6 +104,10 @@ export const assets = {
   add_address_iamge,
   box_icon,
   heroBg,
+  benefit1,
+  benefit2,
+  benefit3,
+  drugs,
 };
 
 export const categories = [
